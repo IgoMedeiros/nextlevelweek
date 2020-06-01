@@ -17,4 +17,4 @@
 * npm install ts-node-dev -D
     * Install typescript hot reload library on dev dependecies
 * npx ts-node-dev src/server.ts
-    * add this command **'dev': 'npx ts-node-dev src/server.ts' on scrpt** into package.json on **scripts**
+    * add this command **'dev': 'ts-node-dev src/server.ts' on scrpt** into package.json on **scripts**
